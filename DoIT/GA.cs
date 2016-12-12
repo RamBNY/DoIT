@@ -9,6 +9,6 @@ namespace DoIT
     class GA
     {
         public string Name { get; set; }
-        public string Dept { get; set; }
+        public string Dept { get; set; } 
     }
 }
